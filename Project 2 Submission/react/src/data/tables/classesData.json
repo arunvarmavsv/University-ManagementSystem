@@ -1,0 +1,60 @@
+{
+    "classes": [
+      {
+        "Class_ID": 123,
+        "Dept_Code": 1321,
+        "Course_ID": 555,
+        "Sec_ID": 123,
+        "Year": "New York",
+        "Semester": "male",
+        "Limit": "08-11-2023",
+        "Class_Size": "A",
+        "Room": "Fall"
+      },
+      {
+        "Class_ID": 234,
+        "Dept_Code": 1321,
+        "Course_ID": 666,
+        "Sec_ID": 456,
+        "Year": "New York",
+        "Semester": "male",
+        "Limit": "08-11-2023",
+        "Class_Size": "A",
+        "Room": "Fall"
+      },
+      {
+        "Class_ID": 234,
+        "Dept_Code": 1321,
+        "Course_ID": 666,
+        "Sec_ID": 456,
+        "Year": "New York",
+        "Semester": "male",
+        "Limit": "08-11-2023",
+        "Class_Size": "A",
+        "Room": "Fall"
+      },
+      {
+        "Class_ID": 234,
+        "Dept_Code": 1321,
+        "Course_ID": 666,
+        "Sec_ID": 456,
+        "Year": "New York",
+        "Semester": "male",
+        "Limit": "08-11-2023",
+        "Class_Size": "A",
+        "Room": "Fall"
+      },
+      {
+        "Class_ID": 234,
+        "Dept_Code": 1321,
+        "Course_ID": 666,
+        "Sec_ID": 456,
+        "Year": "New York",
+        "Semester": "male",
+        "Limit": "08-11-2023",
+        "Class_Size": "A",
+        "Room": "Fall"
+      }
+    ]
+  }
+  

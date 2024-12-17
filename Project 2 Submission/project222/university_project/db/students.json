@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Liliana",
+    "student_id": 111,
+    "student_type": "graduate"
+  },
+  {
+    "name": "alan rickman 2",
+    "student_id": 112,
+    "student_type": "graduate"
+  },
+  {
+    "name": "ryan",
+    "student_id": 113,
+    "student_type": "undergraduate"
+  },
+  {
+    "name": "john",
+    "student_id": 114,
+    "student_type": "undergraduate"
+  },
+  {
+    "name": "sam",
+    "student_id": 115,
+    "student_type": "undergraduate"
+  },
+  {
+    "name": "krish",
+    "student_id": 116,
+    "student_type": "undergraduate"
+  },
+  {
+    "name": "sai",
+    "student_id": 117,
+    "student_type": "undergraduate"
+  },
+  {
+    "name": "hamza",
+    "student_id": 118,
+    "student_type": "undergraduate"
+  },
+  {
+    "name": "will",
+    "student_id": 119,
+    "student_type": "undergraduate"
+  },
+  {
+    "name": "jow",
+    "student_id": 120,
+    "student_type": "undergraduate"
+  },
+  {
+    "name": "jiny",
+    "student_id": 121,
+    "student_type": "graduate"
+  },
+  {
+    "name": "allen",
+    "student_id": 123,
+    "student_type": "undergraduate"
+  }
+]

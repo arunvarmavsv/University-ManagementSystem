@@ -1,0 +1,22 @@
+[
+  {
+    "course_id": 111,
+    "course_name": "AI"
+  },
+  {
+    "course_id": 119,
+    "course_name": "AI DS"
+  },
+  {
+    "course_id": 120,
+    "course_name": "AI ML"
+  },
+  {
+    "course_id": 123,
+    "course_name": "DS"
+  },
+  {
+    "course_id": 125,
+    "course_name": "OOPs"
+  }
+]

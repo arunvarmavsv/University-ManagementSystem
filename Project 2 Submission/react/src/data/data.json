@@ -1,0 +1,70 @@
+{
+  "students": [
+    {
+      "id": 1321,
+      "name": "Larry",
+      "email": "Larry@gmail.com",
+      "address": "New York",
+      "gender": "male",
+      "dob": "08-11-2023",
+      "section": "A",
+      "semester": "Fall",
+      "year": 2022
+    },
+    {
+      "id": 1432,
+      "name": "Larry",
+      "email": "Larry@gmail.com",
+      "address": "New York",
+      "gender": "male",
+      "dob": "08-11-2023",
+      "section": "A",
+      "semester": "Fall",
+      "year": 2022
+    },
+    {
+      "id": 1512,
+      "name": "Larry",
+      "email": "Larry@gmail.com",
+      "address": "New York",
+      "gender": "male",
+      "dob": "08-11-2023",
+      "section": "A",
+      "semester": "Fall",
+      "year": 2022
+    },
+    {
+      "id": 1546,
+      "name": "Larry",
+      "email": "Larry@gmail.com",
+      "address": "New York",
+      "gender": "male",
+      "dob": "08-11-2023",
+      "section": "A",
+      "semester": "Fall",
+      "year": 2022
+    },
+    {
+      "id": 1111,
+      "name": "Larry",
+      "email": "Larry@gmail.com",
+      "address": "New York",
+      "gender": "male",
+      "dob": "08-11-2023",
+      "section": "A",
+      "semester": "Fall",
+      "year": 2022
+    },
+    {
+      "id": 1344,
+      "name": "Larry",
+      "email": "Larry@gmail.com",
+      "address": "New York",
+      "gender": "male",
+      "dob": "08-11-2023",
+      "section": "A",
+      "semester": "Fall",
+      "year": 2022
+    }    
+  ]
+}
